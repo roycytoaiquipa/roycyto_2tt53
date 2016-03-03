@@ -1,0 +1,100 @@
+body{
+	background: green;
+}
+.contenedor{
+	border:1px solid purple;
+	width:960px;
+	margin: 0 auto;
+}
+.menu-lista{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+.menu-item{
+	display: inline-block;
+}
+.menu-link{
+
+}
+nav{
+	text-align: center;
+}
+.menu-link{
+	font-size: 30px;
+	background: black;
+	color: white;
+}
+.menu-link{
+	padding: 10px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.menu-link:hover{
+	text-decoration: underline;
+	box-shadow: 5px 5px 15px orange;
+	transition: 0.5s;
+}
+.menu-item img{
+	border-radius: 10px;
+
+}
+.red{
+	color: red;
+}
+.verde{
+	color: blue;
+}
+.roy{
+	color:white;
+}
+.ryy{
+	color: white;
+}
+.toy{
+	color: black;
+}.poma{
+	color: red;
+}
+.Poma{
+	color: yellow;
+}
+.chipana{
+	text-align: center;
+}
+.img{
+	border: 3px solid orange;
+	
+}
+.imgr{
+	text-decoration: center;
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
+.imgt{
+	text-decoration: center;
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
+.imgy{
+	text-decoration: center;
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
+.imgx{
+	text-decoration: center;
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
+.toy{
+	text-align: center;
+}
